@@ -18,12 +18,11 @@ Demonstrate data integration through a dataset merge bonus challenge
 
 # 📁  Project Structure
 .
-│
-├── 04_Assignment.ipynb          # Main notebook with all analyses
-├── dataset/
-│   ├── nigerian_market_prices_assignment.csv
-│   └── nigerian_market_transactions_assignment.csv
-│
+04_Assignment.ipynb          # Main notebook with all analyses
+ dataset/
+nigerian_market_prices_assignment.csv
+ nigerian_market_transactions_assignment.csv
+
 └── README.md
 
 The dataset folder contains the raw data files used in the analysis.
